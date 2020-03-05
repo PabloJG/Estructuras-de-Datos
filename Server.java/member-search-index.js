@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"chat_Application","c":"Server","l":"main(String[])","url":"main(java.lang.String[])"},{"p":"chat_Application","c":"Server","l":"makeInterfaxe()"},{"p":"chat_Application","c":"Server","l":"read()"},{"p":"chat_Application","c":"Server","l":"Server()","url":"%3Cinit%3E()"},{"p":"chat_Application","c":"Server","l":"write()"}]
